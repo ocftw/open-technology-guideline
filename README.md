@@ -1,6 +1,11 @@
 # open-technology-guideline 《關於開放科技—從原始碼、資料到政府：開放，如何塑造新時代數位社會》手冊
 關於開放科技—從原始碼、資料到政府：開放，如何塑造新時代數位社會；Open Technology - From Source Code, Data to the Government: How “Open” Shapes the Digital Society of the New Era
 
+## 下載 Download
+
+- 中文版本（Mandarin Chinese）[《關於開放科技—從原始碼、資料到政府：開放，如何塑造新時代數位社會》手冊](https://github.com/ocftw/open-technology-guideline/blob/main/%E9%97%9C%E6%96%BC%E9%96%8B%E6%94%BE%E7%A7%91%E6%8A%80_%E5%BE%9E%E5%8E%9F%E5%A7%8B%E7%A2%BC%E3%80%81%E8%B3%87%E6%96%99%E5%88%B0%E6%94%BF%E5%BA%9C.md)
+- 英文版本（English）[“Open Technology - From Source Code, Data to the Government: How “Open” Shapes the Digital Society of the New Era”](https://github.com/ocftw/open-technology-guideline/blob/main/Open%20Technology%20Guideline_From%20Source%20Code%2C%20Data%20to%20the%20Government.md)
+
 
 ## 描述 Description
 
